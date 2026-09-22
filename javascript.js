@@ -1,3 +1,4 @@
+// 1
 var name = "Venkat Sai";
 console.log(name);
 
@@ -60,9 +61,9 @@ let studentAge = 22;
 console.log(studentAge);
 
 // 13
-let location;
-location = "Andhra Pradesh";
-console.log(location);
+let userLocation;
+userLocation = "Andhra Pradesh";
+console.log(userLocation);
 
 // 14
 let amount = 100;
@@ -245,4 +246,3 @@ console.error(userQualification3);
 document.writeln("Name: " + userName3);
 document.writeln("<br>Age: " + userAge3);
 document.writeln("<br>Qualification: " + userQualification3);
-
